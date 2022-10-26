@@ -15,7 +15,6 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
-[![Alexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale12d)](https://github.com/ale12d/github-readme-stats)
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ale12d" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/alexydubois/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
 </p>
