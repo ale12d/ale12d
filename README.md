@@ -21,7 +21,7 @@ class User:
 models.py:1:7: E901 SyntaxError: missing "eager", "nervous"
 ```
 <br>
-<h3>⚙️ requierements.txt :</h3>
+<h3>⚙️ requirements.txt :</h3>
 
 <p>
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
