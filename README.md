@@ -8,17 +8,19 @@
 ```python
 class User:
 
-  def __init__(self):
+  def __init__(self, job):
       self.name = "Dubois"
       self.first_name = "Alexy"
       self.age = 22
+      self.job = job
       self.character_traits = ["curious", "punctual" , "motivated"]
 ```
 
 <h3>⚠️ Issues :</h3>
 
 ```bash
-models.py:1:7: E901 SyntaxError: missing "eager", "nervous"
+- TypeError: user() missing 1 required positional argument 'job'
+- models.py:1:7: E901 SyntaxError: missing 'eager', 'nervous'
 ```
 <br>
 <h3>⚙️ requirements.txt :</h3>
