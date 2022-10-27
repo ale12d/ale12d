@@ -13,7 +13,6 @@ class User:
       self.first_name = "Alexy"
       self.age = 22
       self.character_traits = ["curious", "punctual" , "motivated"]
-}
 ```
 
 <h3>⚠️ Issues :</h3>
