@@ -1,7 +1,29 @@
 ### Hi there 👋
 
 <p>Welcome to my github page! </br> 
-<h3>Things I'm using :</h3>
+<br>
+
+<h3>🧰 models.py :</h3>
+
+```python
+class User:
+
+  def __init__(self):
+      self.name = "Dubois"
+      self.first_name = "Alexy"
+      self.age = 22
+      self.character_traits = ["curious", "punctual" , "motivated"]
+}
+```
+
+<h3>⚠️ Issues :</h3>
+
+```bash
+models.py:1:7: E901 SyntaxError: missing "eager", "nervous"
+```
+<br>
+<h3>requierement.txt :</h3>
+
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -15,10 +37,12 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
-  
+<br>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ale12d&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=buefy&hide_border=true" alt="Alexy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale12d&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<h3>Where to find me</h3>
+<br>
+<hr>
+<h3>🤝 Contact :</h3>
 <p><a href="https://github.com/ale12d" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/alexydubois/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
 </p>
