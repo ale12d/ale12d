@@ -38,11 +38,15 @@ models.py:1:7: E901 SyntaxError: missing "eager", "nervous"
   <img alt="circleci" src="https://img.shields.io/badge/circleci-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
 <br>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ale12d&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=buefy&hide_border=true" alt="Alexy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale12d&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ale12d&theme=github"/>
+</div>
 <br>
 <hr>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ale12d&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=dracula&hide_border=true" alt="Alexy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale12d&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <h3>🤝 Contact :</h3>
 <p><a href="https://github.com/ale12d" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/alexydubois/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
 </p>
