@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Welcome to my github page! </br> 
+<p>Welcome to my github profile ! </br> 
 <br>
 
 <h3>🧰 models.py :</h3>
