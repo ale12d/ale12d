@@ -46,7 +46,7 @@ class User:
 <br>
 <hr>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ale12d&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=dracula&hide_border=true" alt="Alexy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale12d&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ale12d&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" alt="Alexy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale12d&layout=compact&theme=dracula&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 <h3>🤝 Contact :</h3>
